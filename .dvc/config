@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://complaints-datagrid-619459867941-us-east-1-an
