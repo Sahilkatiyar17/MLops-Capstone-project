@@ -225,3 +225,4 @@ local_s3/
 logs/
 data_artifact/
 models/
+reports/
